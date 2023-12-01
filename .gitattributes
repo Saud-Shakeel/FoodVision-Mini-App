@@ -1,0 +1,2 @@
+*.file_extension filter=lfs diff=lfs merge=lfs -text
+Effnet_b2_10_epochs.pth filter=lfs diff=lfs merge=lfs -text
